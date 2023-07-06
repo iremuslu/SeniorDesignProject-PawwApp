@@ -1,6 +1,7 @@
 ## SeniorDesignProject-PawwApp
 
-![paww-logo](https://github.com/iremuslu/SeniorDesignProject-PawwApp/assets/88425475/6a5c3852-d191-4094-a39d-10122fd706db)
+![ic_launcher_foreground](https://github.com/iremuslu/SeniorDesignProject-PawwApp/assets/88425475/ae03fc0f-bbe5-4f09-ad1b-d459ec3ec45b)
+
 
 #### Uygulama Sunum Video Linki: https://www.youtube.com/watch?v=bgXf51JylF4
 #### SeniorDesignProject klasöürü içinde mobil uygulamanın kaynak kodları bulunuyor.
