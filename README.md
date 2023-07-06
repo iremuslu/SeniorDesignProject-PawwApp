@@ -1,6 +1,6 @@
 ## SeniorDesignProject-PawwApp
 
-![ic_launcher_foreground](https://github.com/iremuslu/SeniorDesignProject-PawwApp/assets/88425475/ae03fc0f-bbe5-4f09-ad1b-d459ec3ec45b)
+### App Logo
 ![ic_launcher_round](https://github.com/iremuslu/SeniorDesignProject-PawwApp/assets/88425475/8a51f322-5d2b-4dc4-97db-87b05658dc6c)
 
 
